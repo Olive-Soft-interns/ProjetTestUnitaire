@@ -33,8 +33,8 @@ public class Main {
 			System.out.println(calculatedResult);
 		 break;
 		default:
-             System.out.printf("Error! l'operateur est incorrect");
-         return;
+                System.out.printf("Error! l'operateur est incorrect");
+                return;
 		
 		}
 		System.out.println(calculatedResult);
